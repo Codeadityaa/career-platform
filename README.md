@@ -1,4 +1,103 @@
 
+# 🌟 AI Job Recommendation Platform
+
+> **Live Frontend**: [https://ai-job-recommend-front-end.vercel.app/](https://ai-job-recommend-front-end.vercel.app/)  
+> **Live Backend**: [https://ai-job-recommend-backend.onrender.com/](https://ai-job-recommend-backend.onrender.com/)
+
+---
+
+## 📄 About This Project
+
+The **AI Job Recommendation Platform** helps users discover the best job opportunities tailored to their skills by analyzing their resume or search preferences.  
+It is a full-stack web application built with **React**, **Node.js**, **MongoDB**, **Socket.IO**, and more modern technologies.
+
+🔒 **Note:**  
+This GitHub repository shows only the folder structure.  
+If you want access to the **full project source code** (both frontend and backend),  
+please **contact me directly** via:
+- 📧 Email: sineraja97@gmail.com 
+
+- 📱 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/sine-raja-591156177/)
+
+---
+
+## 🚀 Core Functionalities
+
+- Upload your resume and get **AI-powered job matches**.
+- **Search and filter** jobs by title, location, category, experience, and salary.
+- Real-time **chat functionality** for recruiters and applicants (via Socket.IO).
+- Companies can **post jobs** and **manage applications**.
+- **Beautiful responsive UI** built with Tailwind CSS.
+- Fully **deployed** frontend (Vercel) and backend (Render).
+
+---
+
+## ⚙️ Tech Stack
+
+| Frontend | Backend | Deployment | Database | Real-Time |
+|:---|:---|:---|:---|:---|
+| React.js | Node.js | Vercel (Frontend) | MongoDB Atlas | Socket.IO |
+| Tailwind CSS | Express.js | Render (Backend) | Mongoose ODM | WebSockets |
+| Axios | Cloudinary API (for uploads) |  |  |  |
+
+---
+
+## 📦 Project Structure
+
+```
+Frontend/
+├── src/
+│   ├── components/
+│   ├── employeeComponent/
+│   ├── JobSeeker/
+│   ├── LandingPages/
+│   ├── realtimeChat/
+│   ├── animations/
+│   ├── assets/
+│   └── App.js
+Backend/
+├── jobControllers/
+├── jobRoutes/
+├── jobModel/
+├── jobMiddleware/
+├── configuration/
+├── jobDatabase/
+├── conversations/
+├── utilities/
+└── backendApp.js
+```
+
+---
+
+## 🎯 Future Improvements (Coming Soon)
+
+- AI Chatbot for career counseling.
+- Admin dashboard for job analytics.
+- More advanced resume parsing and skill extraction.
+
+---
+
+# 📢 Contact Me
+
+If you are a recruiter, hiring manager, or developer and want to collaborate,  
+or if you want access to the full source code, feel free to **reach out**:
+
+- 📧 Email: sineraja97@gmail.com 
+
+- 📱 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/sine-raja-591156177/)
+
+---
+
+# ⭐ GitHub Topics/Tags
+
+_(add these as explained before)_
+
+```
+AI · Job Recommendation · Resume Matching · Job Search · Career Platform · React · Node.js · MongoDB · Socket.IO · TailwindCSS · Vercel · Render
+```
+
+---
+
 
 # 📦 Backend - `README.md`
 
