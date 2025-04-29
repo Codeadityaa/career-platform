@@ -1,8 +1,9 @@
 # ✨ AI Job Recommendation Platform- Let's Innovate Together! ✨
 
-[![Project Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/your-username/your-repo)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/your-username/your-repo)
-![Cool Feature Showcase](path/to/your/feature.png) This project is [briefly describe the exciting problem it solves or the cool thing it does]. I'm passionate about [mention your passion related to the project].
+[![Project Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/SineRaja/ai-job-recommendation-platform/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/SineRaja/ai-job-recommendation-platform/)
+![Cool Feature Showcase](![image](https://github.com/user-attachments/assets/1103a085-a89f-456f-bc63-4a9f4a877477)
+) This project is [briefly describe the exciting problem it solves or the cool thing it does]. I'm passionate about [mention your passion related to the project].
 
 ## Want to Explore the Full Potential? Let's Connect!
 
