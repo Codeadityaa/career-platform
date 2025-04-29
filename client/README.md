@@ -1,6 +1,6 @@
 # 🌟 AI Job Recommendation Platform
 
-[![Awesome Project](https://img.shields.io/badge/Awesome-Project-brightgreen.svg)](https://github.com/your-username/your-repo)
+[![Awesome Project](https://img.shields.io/badge/Awesome-Project-brightgreen.svg)](https://github.com/SineRaja/ai-job-recommendation-platform/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Project Demo](path/to/your/demo.gif) [Brief and engaging description of your project. Highlight its key features and purpose.]
 
