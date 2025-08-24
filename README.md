@@ -15,9 +15,9 @@ It is a full-stack web application built with **React**, **Node.js**, **MongoDB*
 This GitHub repository shows only the folder structure.  
 If you want access to the **full project source code** (both frontend and backend),  
 please **contact me directly** via:
-- 📧 Email: sineraja97@gmail.com 
+-
 
-- 📱 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/sine-raja-591156177/)
+- 📱 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/aditya-rai-b7642b259/)
 
 ---
 
